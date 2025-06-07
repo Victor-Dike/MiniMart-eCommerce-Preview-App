@@ -33,3 +33,6 @@ Feel free to open an issue or submit a pull request.
 ---
 
 Feel free to ⭐️ the repo if you found it helpful!
+
+## 📦 APK Download
+[Click here to download the compiled APK](https://drive.google.com/file/d/1FEQM33Rn9jPBk5S8ME3ZaesbAEEpM6KS/view?usp=sharing)
